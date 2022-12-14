@@ -15,7 +15,6 @@ l         ]     o !__./           Python"
        |    "x______.^ 
        |           \    
        j            Y
-
 I am Bitt, also known as Sr.Bitt, 
 I am a young Puerto Rican and Mexican 
 programmer, From helping preserve Flash
@@ -27,7 +26,6 @@ I hope to one day enter MIT, or a Computer
 Science college. I am only 14 years old,
 And I hope that when I get older, my
 Coding knowledge gets bigger and bigger,
-
       _ _,---._
    ,-','       `-.___
   /-;'               `._
