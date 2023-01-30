@@ -37,11 +37,12 @@ Science college. I am only 14 years old,
 And I hope that when I get older, my
 Coding knowledge gets bigger and bigger,
 I am currently working on a game called
-Taco Clicker, I wouldn't call it an indie 
-Game since it's just a clicker game, I 
-Obviously got inspiration from cookie clicker
-But I am trying to differ from it, my progress
-Will be posted on my GitHub page and on my youtube
+Doge Tower Defense, a game where you
+strategically place down many types
+of Doges, like  Doge loaf, Cheems,
+Buff Doge, Doge Miner, and many more.
+My progress will be recorded on my 
+youtube.
 https://youtube.com/@SrMariachii
 
                         __ __
